@@ -8,6 +8,8 @@
   justify-content: space-around;
   align-items: center;
   flex-direction: row;
+  background-color: rgb(236, 236, 236);
+  padding-bottom: 20px;
 
   /* border: solid thin rgb(48, 0, 180); */
 }
@@ -19,17 +21,14 @@
 
 .article {
   background-color: rgb(255, 255, 255);
-  width: 22%;
+  width: 23%;
   height: auto;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
   /* border: solid thin rgb(180, 0, 30); */
 }
 
 img {
   max-width: 100%;
-  border-radius: 10px 10px 0px 0px;
 }
 
 h2, p {

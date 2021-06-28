@@ -5,18 +5,23 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
   flex-direction: row;
+  width: 100vw;
+  height: 50vh;
+
   background-color: rgb(236, 236, 236);
-  padding-bottom: 20px;
 
   /* border: solid thin rgb(48, 0, 180); */
 }
 
-.sectionTitle {
-  padding-left: 20px;
+.title {
+  padding-left: 2vw;
   width: 100vw;
+  max-height: 10vh;
+
+  /* border: solid thin rgb(48, 0, 180); */
 }
 
 .article {
@@ -28,10 +33,11 @@
 }
 
 img {
-  max-width: 100%;
+  width: 100%;
 }
 
-h2, p {
+h2,
+p {
   margin: 10px;
 
   /* border: solid thin rgb(180, 0, 30); */

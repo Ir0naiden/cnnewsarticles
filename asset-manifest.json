@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cnnewsarticles/static/css/main.7cce9428.chunk.css",
+    "main.css": "/cnnewsarticles/static/css/main.a230b5e7.chunk.css",
     "main.js": "/cnnewsarticles/static/js/main.05442953.chunk.js",
     "main.js.map": "/cnnewsarticles/static/js/main.05442953.chunk.js.map",
     "runtime-main.js": "/cnnewsarticles/static/js/runtime-main.57fe358e.js",
@@ -10,7 +10,7 @@
     "static/js/3.4064bb3c.chunk.js": "/cnnewsarticles/static/js/3.4064bb3c.chunk.js",
     "static/js/3.4064bb3c.chunk.js.map": "/cnnewsarticles/static/js/3.4064bb3c.chunk.js.map",
     "index.html": "/cnnewsarticles/index.html",
-    "static/css/main.7cce9428.chunk.css.map": "/cnnewsarticles/static/css/main.7cce9428.chunk.css.map",
+    "static/css/main.a230b5e7.chunk.css.map": "/cnnewsarticles/static/css/main.a230b5e7.chunk.css.map",
     "static/js/2.d1461d30.chunk.js.LICENSE.txt": "/cnnewsarticles/static/js/2.d1461d30.chunk.js.LICENSE.txt",
     "static/media/blanket.32316be2.png": "/cnnewsarticles/static/media/blanket.32316be2.png",
     "static/media/chickenglasses.647a727f.png": "/cnnewsarticles/static/media/chickenglasses.647a727f.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.57fe358e.js",
     "static/js/2.d1461d30.chunk.js",
-    "static/css/main.7cce9428.chunk.css",
+    "static/css/main.a230b5e7.chunk.css",
     "static/js/main.05442953.chunk.js"
   ]
 }

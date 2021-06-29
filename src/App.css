@@ -32,6 +32,37 @@
   /* border: solid thin rgb(180, 0, 30); */
 }
 
+.article:hover {
+  border-bottom: 5px solid red;
+
+  /* border: solid thin rgb(180, 0, 30); */
+}
+
+.article:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 51%;
+  right: 51%;
+  bottom: 0;
+  background: #790000;
+  height: 4px;
+  transition-property: left, right;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-out;
+}
+
+.article:hover:before, .article:focus:before, .article:active:before {
+  left: 0;
+  right: 0;
+}
+
+
+
+
+
+
+
 img {
   width: 100%;
 }

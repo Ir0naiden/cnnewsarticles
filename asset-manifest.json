@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cnnewsarticles/static/css/main.7cce9428.chunk.css",
+    "main.js": "/cnnewsarticles/static/js/main.05442953.chunk.js",
+    "main.js.map": "/cnnewsarticles/static/js/main.05442953.chunk.js.map",
+    "runtime-main.js": "/cnnewsarticles/static/js/runtime-main.57fe358e.js",
+    "runtime-main.js.map": "/cnnewsarticles/static/js/runtime-main.57fe358e.js.map",
+    "static/js/2.d1461d30.chunk.js": "/cnnewsarticles/static/js/2.d1461d30.chunk.js",
+    "static/js/2.d1461d30.chunk.js.map": "/cnnewsarticles/static/js/2.d1461d30.chunk.js.map",
+    "static/js/3.4064bb3c.chunk.js": "/cnnewsarticles/static/js/3.4064bb3c.chunk.js",
+    "static/js/3.4064bb3c.chunk.js.map": "/cnnewsarticles/static/js/3.4064bb3c.chunk.js.map",
+    "index.html": "/cnnewsarticles/index.html",
+    "static/css/main.7cce9428.chunk.css.map": "/cnnewsarticles/static/css/main.7cce9428.chunk.css.map",
+    "static/js/2.d1461d30.chunk.js.LICENSE.txt": "/cnnewsarticles/static/js/2.d1461d30.chunk.js.LICENSE.txt",
+    "static/media/blanket.32316be2.png": "/cnnewsarticles/static/media/blanket.32316be2.png",
+    "static/media/chickenglasses.647a727f.png": "/cnnewsarticles/static/media/chickenglasses.647a727f.png",
+    "static/media/meatvendor.ebfe62f5.png": "/cnnewsarticles/static/media/meatvendor.ebfe62f5.png",
+    "static/media/pigsfly.f1aece81.png": "/cnnewsarticles/static/media/pigsfly.f1aece81.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57fe358e.js",
+    "static/js/2.d1461d30.chunk.js",
+    "static/css/main.7cce9428.chunk.css",
+    "static/js/main.05442953.chunk.js"
+  ]
+}

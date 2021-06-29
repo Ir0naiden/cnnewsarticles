@@ -32,11 +32,11 @@
   /* border: solid thin rgb(180, 0, 30); */
 }
 
-.article:hover {
+/* .article:hover {
   border-bottom: 5px solid red;
 
   /* border: solid thin rgb(180, 0, 30); */
-}
+} */
 
 .article:before {
   content: "";
@@ -56,12 +56,6 @@
   left: 0;
   right: 0;
 }
-
-
-
-
-
-
 
 img {
   width: 100%;
